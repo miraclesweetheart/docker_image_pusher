@@ -6,4 +6,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ddsderek/xiaoya-115cleaner:latest
-sickcodes/docker-osx:auto
+sickcodes/docker-osx:latest
