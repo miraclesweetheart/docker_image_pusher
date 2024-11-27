@@ -9,3 +9,4 @@ ddsderek/xiaoya-115cleaner:latest
 nattertool/natter
 php:7.4.33-fpm
 netdata/netdata:latest
+maltrail
