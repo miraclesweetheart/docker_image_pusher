@@ -9,8 +9,4 @@ ddsderek/xiaoya-115cleaner:latest
 nattertool/natter
 php:7.4.33-fpm
 netdata/netdata:latest
-zabbix/zabbix-server-mysql
-mysql:8.0-oracle
-zabbix/zabbix-java-gateway:alpine-7.0-latest
-zabbix/zabbix-server-mysql:alpine-7.0-latest
-zabbix/zabbix-web-nginx-mysql:alpine-7.0-latest
+haroldli/xiaoya-tvbox
