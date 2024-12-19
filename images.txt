@@ -12,3 +12,4 @@ netdata/netdata:latest
 haroldli/xiaoya-tvbox
 vvbbnn00/warp-clash-api
 shenxianmq/auto_symlink
+xiaoyaliu/alist
