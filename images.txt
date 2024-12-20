@@ -12,6 +12,6 @@ nattertool/natter
 #haroldli/xiaoya-tvbox
 #vvbbnn00/warp-clash-api
 #shenxianmq/auto_symlink
-xiaoyaliu/alist
 #neosmemo/memos
 jeessy/ddns-go
+xiaoyaliu/alist:latest
