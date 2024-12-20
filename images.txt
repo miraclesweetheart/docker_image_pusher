@@ -13,5 +13,5 @@ nattertool/natter
 #vvbbnn00/warp-clash-api
 #shenxianmq/auto_symlink
 xiaoyaliu/alist
-neosmemo/memos
+#neosmemo/memos
 jeessy/ddns-go
