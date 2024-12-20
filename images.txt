@@ -14,4 +14,4 @@ nattertool/natter
 #shenxianmq/auto_symlink
 #neosmemo/memos
 jeessy/ddns-go
-xiaoyaliu/alist:latest
+xiaoyaliu/alist
