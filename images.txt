@@ -15,3 +15,4 @@ nattertool/natter
 #neosmemo/memos
 jeessy/ddns-go
 xiaoyaliu/alist
+homeassistant/home-assistant
