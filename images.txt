@@ -17,3 +17,4 @@ jeessy/ddns-go
 xiaoyaliu/alist
 homeassistant/home-assistant
 linkease/webvirtcloud
+emby/embyserver
