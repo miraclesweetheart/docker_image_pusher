@@ -5,16 +5,17 @@
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ddsderek/xiaoya-115cleaner:latest
-nattertool/natter
+#ddsderek/xiaoya-115cleaner:latest
+#nattertool/natter
 #php:7.4.33-fpm
 #netdata/netdata:latest
 #haroldli/xiaoya-tvbox
 #vvbbnn00/warp-clash-api
 #shenxianmq/auto_symlink
 #neosmemo/memos
-jeessy/ddns-go
-xiaoyaliu/alist
-homeassistant/home-assistant
-linkease/webvirtcloud
-emby/embyserver
+#jeessy/ddns-go
+#xiaoyaliu/alist
+#homeassistant/home-assistant
+#linkease/webvirtcloud
+#emby/embyserver
+haroldli/xiaoya-tvbox
