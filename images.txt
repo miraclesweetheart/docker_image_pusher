@@ -18,4 +18,4 @@
 #homeassistant/home-assistant
 #linkease/webvirtcloud
 #emby/embyserver
-ailg/g-box
+ailg/g-box:hostmode
