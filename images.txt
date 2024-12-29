@@ -17,6 +17,7 @@
 #xiaoyaliu/alist
 #homeassistant/home-assistant
 #linkease/webvirtcloud
-emby/embyserver:4.8.0.56
-ailg/ggbond:latest
+#emby/embyserver:4.8.0.56
+#ailg/ggbond:latest
 #ailg/g-box:hostmode
+ddsderek/xiaoya-emd:latest
