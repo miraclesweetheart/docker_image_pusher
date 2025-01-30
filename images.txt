@@ -20,4 +20,6 @@
 #emby/embyserver:4.8.0.56
 #ailg/ggbond:latest
 #ailg/g-box:hostmode
-ddsderek/xiaoya-emd:latest
+#ddsderek/xiaoya-emd:latest
+
+ghcr.io/open-webui/open-webui:main
