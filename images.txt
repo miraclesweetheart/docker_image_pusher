@@ -25,4 +25,4 @@
 #ghcr.io/open-webui/open-webui:main
 portainer/portainer-ce:latest
 redis:7-alpine
-katelya77/katelyatv:latest
+ghcr.io/katelya77/katelyatv:latest
