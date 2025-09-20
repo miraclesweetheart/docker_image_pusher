@@ -26,4 +26,4 @@
 portainer/portainer-ce:latest
 redis:7-alpine
 ghcr.io/katelya77/katelyatv:latest
-gravityle/nullbr115:latest
+gravityle/nullbr115
