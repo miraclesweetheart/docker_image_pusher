@@ -31,3 +31,4 @@ ghcr.io/fish2018/pansou-web:latest
 wu529778790/panhub.shenzjd.com
 cloudflare/cloudflared:latest
 ghcr.io/jeffvli/feishin:latest
+ghcr.io/alexta69/metube
