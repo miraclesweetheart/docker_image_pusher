@@ -33,3 +33,5 @@ cloudflare/cloudflared:latest
 ghcr.io/jeffvli/feishin:latest
 ghcr.io/alexta69/metube
 geelonn/melodyhub:latest
+msmkls/daoliyu-backend:latest
+msmkls/daoliyu-frontend:latest
