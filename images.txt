@@ -23,15 +23,14 @@
 #ddsderek/xiaoya-emd:latest
 
 #ghcr.io/open-webui/open-webui:main
-portainer/portainer-ce:latest
-redis:7-alpine
-ghcr.io/katelya77/katelyatv:latest
-ghcr.io/fish2018/pansou-web:latest
+#portainer/portainer-ce:latest
+#redis:7-alpine
+#ghcr.io/katelya77/katelyatv:latest
+#ghcr.io/fish2018/pansou-web:latest
 #gravityle/nullbr115:latest
-wu529778790/panhub.shenzjd.com
-cloudflare/cloudflared:latest
-ghcr.io/jeffvli/feishin:latest
-ghcr.io/alexta69/metube
-geelonn/melodyhub:latest
+#wu529778790/panhub.shenzjd.com
+#cloudflare/cloudflared:latest
+#ghcr.io/jeffvli/feishin:latest
+#ghcr.io/alexta69/metube
 msmkls/daoliyu-backend:latest
 msmkls/daoliyu-frontend:latest
