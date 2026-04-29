@@ -34,3 +34,4 @@
 #ghcr.io/alexta69/metube
 msmkls/daoliyu-backend:latest
 msmkls/daoliyu-frontend:latest
+bitnami/nginx:1.12
